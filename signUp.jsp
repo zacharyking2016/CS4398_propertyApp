@@ -223,7 +223,7 @@ footer {
             <input type="text" name="zip" maxlength="12" required>
             <br>
             <label for="email">Email:</label>
-            <input type="text" name="email" maxlength="30" required>
+            <input type="email" name="email" maxlength="30" required>
             <br>
             <label for="phone">Phone Number:</label>
             <input type="text" name="phone" maxlength="30" required>
